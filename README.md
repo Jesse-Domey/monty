@@ -1,5 +1,4 @@
 # monty interpreter
-![alt text](https://github.com/betascribbles/monty/blob/main/images/monty.png?raw=true)
 
 
 ## The Monty language
